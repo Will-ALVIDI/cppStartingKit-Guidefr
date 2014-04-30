@@ -3,7 +3,7 @@ C++ Starting Kit pour Sublime Text : Le Guide
 
 **Back to the [english version](https://github.com/kodLite/cppStartingKit-Guide)**
 
-*Ce document est actuellement complet mais pas entièrement fonctionnel, tous les liens n'ont pas encore été mis à jour. Ceci se fera rapidement. Merci.*
+*Ce document est actuellement complet mais pas entièrement fonctionnel, tous les liens n'ont pas encore été mis à jour. Ceci se fera rapidement. Bonne lecture.*
 
 Ce guide est conçu pour les gens qui débutent le C++ et qui veulent utiliser un EDI léger comme Sublime Text l'est. Si vous suivez les instructions pas à pas vous aller obtenir des informations cruciales sur l'environnement de Sublime Text, le [**C++ Starting Kit**](https://github.com/kodLite/cppStartingKit) et un véritable point de départ pour vos projets en C++.
 
