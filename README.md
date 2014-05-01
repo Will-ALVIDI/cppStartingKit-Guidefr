@@ -27,6 +27,30 @@ Le principal objectif de ce projet est de **fournir un ensemble d'outils complet
 
 Comme c'est mon principal outil pour mon apprentissage du C++ je ferais de mon mieux pour le rendre pleinement fonctionnel aussi vite que possible.
 
+Aperçu
+======
+
+[Oasis Theme](https://sublime.wbond.net/packages/Oasis%20Theme) non inclu.
+
+![C++ Starting Kit Standard behavior](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/cppStartingKit/standard-behavior.jpg?raw=true)
+
+**Les opérateurs arithmétiques sont maintenant personnalisables.**
+
+![C++ Starting Kit Arithmetic Operators](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/cppStartingKit/custom-arithmetic-operators.jpg?raw=true)
+
+**Encore plus de personnalisation.**
+
+![C++ Starting Kit Customize Everything](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/cppStartingKit/customize-everything.jpg?raw=true)
+
+**Prise en charge de nombreux type de fonctions**
+
+![C++ Starting Kit Any Function Support](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/cppStartingKit/any-function-detection.jpg?raw=true)
+
+**Améliorez vous même facilement votre coloration syntaxique grâce à un [code documenté]((https://github.com/kodLite/cppStartingKit/blob/master/CCpp.tmLanguage))(en anglais bien évidemment).**
+
+![C++ Starting Kit Add Keyword](https://github.com/kodLite/cppStartingKit-Guide/blob/master/screenshot/cppStartingKit/Namespace-added.jpg?raw=true)
+
+
 Le Guide
 ========
 
