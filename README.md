@@ -5,6 +5,31 @@ C++ Starting Kit pour Sublime Text : Le Guide
 
 *Ce document est actuellement complet mais pas entièrement fonctionnel, tous les liens n'ont pas encore été mis à jour. Ceci se fera rapidement. Bonne lecture.*
 
+## Caractéristiques
+* Prise en charge combiné et amélioré de la coloration syntaxique du C,C++ et C++11.
+* C++ build system personnalisé pour compilateur g++.
+
+** Il est grandement recommandé de lire la section Philosophie juste en dessous et le [Guide](https://github.com/kodLite/cppStartingKit-Guidefr) avant d'installer ou d'utiliser ce paquet.
+
+** Back to the [english](https://github.com/kodLite/cppStartingKit-Guide) documentation.
+
+## Philosophie
+Le principal objectif de ce projet est de **fournir un ensemble d'outils complet et un point de départ pour les débutants en C++ avec Sublime Text** incluant :
+* Une définition syntaxique qui vous donne la flexibilité de personnaliser avec précision votre coloration syntaxique.
+* Un jeu de couleur associé. (voir [Oasis Theme](https://sublime.wbond.net/packages/Oasis%20Theme))
+* Un build system intelligible. (voir [C++ Starting Kit build system](https://github.com/kodLite/cppStartingKit/blob/master/CCpp.sublime-build))
+* Une documentation pertinente pour un démarrage rapide et une maintenance accessible. (voir le [Guide](https://github.com/kodLite/cppStartingKit-Guidefr))
+
+**Je dois mentionner deux choses importantes avant de continuer.**
+
+* Premièrement, **je suis vraiment débutant en programmation**. La première version "stable" de ce paquet est le résultat de ma première semaine d'apprentissage. Mon but principal est d'apprendre le C++ avec un outil léger et flexible. Un outil qui me permette de personnaliser mon environnement et me me donne le controle sur des éléments comme la compilation.
+* La seconde chose que je dois mentionner, à mon avis, **ce plugin n'est pas optimal pour la production**. Même si les principaux comprtements sont déjà décrit et semble fonctionner correctement, je pense cet outil va vous demander un certain investissement avant de devenir pleinement fonctionnelle pour un usage avancé ou professionnel.
+
+Comme c'est mon principal outil pour mon apprentissage du C++ je ferais de mon mieux pour le rendre pleinement fonctionnel aussi vite que possible.
+
+Le Guide
+========
+
 Ce guide est conçu pour les gens qui débutent le C++ et qui veulent utiliser un EDI léger comme Sublime Text l'est. Si vous suivez les instructions pas à pas vous aller obtenir des informations cruciales sur l'environnement de Sublime Text, le [**C++ Starting Kit**](https://github.com/kodLite/cppStartingKit) et un véritable point de départ pour vos projets en C++.
 
 Si vous avez un tout autre profil vous trouverez surement des informations utiles pour personnaliser votre environnement Sublime Text C++ ou autre.
