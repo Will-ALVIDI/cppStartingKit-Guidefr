@@ -90,11 +90,9 @@ Le chemin que vous aurez à ajouter à la fin de la manipulation est le dossier 
 
 ## Manuellement
 
-(A rédiger)
-
 ### A partir de Package Control
 
-(A faire)
+[Maintenant disponible](https://sublime.wbond.net/packages/C%2B%2B%20Starting%20Kit)
 
 # Utiliser C++ Starting Kit build system
 
