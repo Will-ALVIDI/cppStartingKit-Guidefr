@@ -1,5 +1,5 @@
-C++ Starting Kit pour Sublime Text : Le Guide
-==============================================
+C++ Starting Kit pour Sublime Text
+==================================
 
 **Back to the [english version](https://github.com/kodLite/cppStartingKit-Guide)**
 
