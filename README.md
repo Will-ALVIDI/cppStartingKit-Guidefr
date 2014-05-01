@@ -88,7 +88,7 @@ Le chemin que vous aurez à ajouter à la fin de la manipulation est le dossier 
 
 # Installer C++ Starting Kit
 
-## Manuellement
+### Manuellement
 
 ### A partir de Package Control
 
