@@ -275,7 +275,7 @@ La définition syntaxique est principalement définie par un fichier de configur
 
 ### Comment editer un *.sublime-package 
 
-`*.sublime-package` comme [**C++ Starting Kit**](https://github.com/kodLite/cppStartingKit) sont des archives `*.zip`. Si vous voulez modifer les fichiers à l'intérieur vous devez suivre les étapes suivantes :
+Les paquets `*.sublime-package` comme [**C++ Starting Kit**](https://github.com/kodLite/cppStartingKit) sont des archives `*.zip`. Si vous voulez modifer les fichiers à l'intérieur vous devez suivre les étapes suivantes :
 * dans votre dossier `Sublime Text/Packages` vous devez trouver le paquet que vous voulez modifier.
 * Copiez et collez le dans un emplacement pratique et faites vos changements sur ce fichier.
 * Pour ouvrir le paquet vous devez renommer le fichier en `*.zip` puis l'extraire.
