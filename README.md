@@ -54,6 +54,19 @@ Aperçu
 Le Guide
 ========
 
+### Apres l'installation
+
+Vous devrez redemarrer Sublime Text apres l'installation avant de voir les changements.
+
+Apres le redemarrage verifiez :
+
+* Que vous utilisez bien la syntax C,C++(11). (a partir du menu View allez dans Syntax > C,C++(11))
+
+* Que vous utilisez bien le build system C++ Starting Kit. (a partir du menu Tools allez dans Build Sytem > C++ Starting Kit)
+* 
+
+### Introduction
+
 Ce guide est conçu pour les gens qui débutent le C++ et qui veulent utiliser un EDI léger comme Sublime Text l'est. Si vous suivez les instructions pas à pas vous aller obtenir des informations cruciales sur l'environnement de Sublime Text, le [**C++ Starting Kit**](https://github.com/kodLite/cppStartingKit) et un véritable point de départ pour vos projets en C++.
 
 Si vous avez un tout autre profil vous trouverez surement des informations utiles pour personnaliser votre environnement Sublime Text C++ ou autre.
