@@ -5,12 +5,11 @@ Le Guide
 
 Vous devrez redémarrer Sublime Text apres l'installation afin de voir les changements.
 
-Apres le redémarrage vérifiez :
+**Apres le redémarrage vérifiez :**
 
 * Que vous utilisez bien la syntax C,C++(11). (à partir du menu View allez dans Syntax > C,C++(11))
 
 * Que vous utilisez bien le build system C++ Starting Kit. (à partir du menu Tools allez dans Build Sytem > C++ Starting Kit)
-* 
 
 ### Introduction
 
