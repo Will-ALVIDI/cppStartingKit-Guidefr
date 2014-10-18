@@ -3,13 +3,13 @@ Le Guide
 
 ### Apres l'installation
 
-Vous devrez redemarrer Sublime Text apres l'installation avant de voir les changements.
+Vous devrez redémarrer Sublime Text apres l'installation afin de voir les changements.
 
-Apres le redemarrage verifiez :
+Apres le redémarrage vérifiez :
 
-* Que vous utilisez bien la syntax C,C++(11). (a partir du menu View allez dans Syntax > C,C++(11))
+* Que vous utilisez bien la syntax C,C++(11). (à partir du menu View allez dans Syntax > C,C++(11))
 
-* Que vous utilisez bien le build system C++ Starting Kit. (a partir du menu Tools allez dans Build Sytem > C++ Starting Kit)
+* Que vous utilisez bien le build system C++ Starting Kit. (à partir du menu Tools allez dans Build Sytem > C++ Starting Kit)
 * 
 
 ### Introduction
