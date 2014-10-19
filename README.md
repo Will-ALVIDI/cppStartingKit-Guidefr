@@ -1,6 +1,8 @@
 Le Guide
 ========
 
+**A CAUSE DES CHANGEMENTS APPORTES PAR LA VERSION 0.2.5(voir la [note relative](https://github.com/kodLite/cppStartingKit/blob/master/messages/0.2.5.txt)) CETTE DOCUMENTATION N'EST PAS A JOUR MAIS CONTIENT TOUJOURS DES INFORMATIONS PERTINENTES. CELA SERA REGLE AUSSI VITE QUE POSSIBLE.**
+
 ### Apres l'installation
 
 Vous devrez redémarrer Sublime Text apres l'installation afin de voir les changements.
