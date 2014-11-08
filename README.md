@@ -1,7 +1,15 @@
 C++ Starting Kit pour Sublime Text : Le Guide
 =============================================
 
-**Read the documentation [in english](https://github.com/kodLite/cppStartingKit-Guide)**
+## Annonce
+
+**AUX VUES DE L'AMPLEUR DE LA TACHE IL M'EST MALHEUREUSEMENT IMPOSSIBLE DANS UN PROCHE IMMEDIAT DE METTRE A JOUR CETTE DOCUMENTATION DANS SA VERSION FRANCAISE COMME CELLE [ACTUELLEMENT DISPONIBLE EN ANGLAIS](http://cppstartingkitproject-guide.readthedocs.org/en/latest/).** 
+
+**J'ESPERE QUE VOUS TROUVEREZ TOUT DE MEME DE QUOI REPONDRE A VOS QUESTIONS.** 
+
+**SACHEZ QUE JE RESTE CEPENDANT DISPONIBLE PAR MAIL A L'ADRESSE SUIVANTE : will.alvidi@gmail.com**
+
+## Ancienne annonce
 
 **A CAUSE DES CHANGEMENTS APPORTES PAR LA VERSION 0.2.6(voir la [note relative](https://github.com/kodLite/cppStartingKit/blob/master/messages/0.2.6.txt)) CETTE DOCUMENTATION N'EST PAS A JOUR MAIS CONTIENT TOUJOURS DES INFORMATIONS PERTINENTES. CELA SERA REGLE AUSSI VITE QUE POSSIBLE.**
 
